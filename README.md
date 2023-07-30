@@ -1,6 +1,7 @@
 # Distributed_Systems
  Logical clocks and Message ordering
 1. Ordering Techniques Implemented
+
   ● FIFO :- A FIFO ordered protocol guarantees that messages by the
     same sender are delivered in the order that they were sent. That is, if
     a process multicasts a message m before it multicasts a message m',
